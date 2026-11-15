@@ -10,7 +10,7 @@
 
 1. Закройте игру.
 2. Сделайте резервную копию папки игры или заменяемых файлов.
-3. Скачайте [архив с исправлениями](RELEASE_DOWNLOAD_URL).
+3. Скачайте [архив с исправлениями](https://github.com/user-attachments/files/34885755/paparazzi-fixes-1.0.0.zipL).
 4. Распакуйте содержимое архива **в папку установленной игры**, где находится
    `Paparazzi.exe`, с заменой существующих файлов.
 5. Запустите **`Paparazzi_no_drm.exe`**. Для запуска через прежний лаунчер
@@ -27,7 +27,7 @@
 
 ## Скачать
 
-**[Скачать архив с исправлениями](RELEASE_DOWNLOAD_URL)**
+**[Скачать архив с исправлениями](https://github.com/user-attachments/files/34885755/paparazzi-fixes-1.0.0.zip)**
 
 ## Как отменить изменения
 
@@ -47,7 +47,7 @@ the original game is required. These fixes were prepared for the Russian release
 
 1. Close the game.
 2. Back up the game folder or the files that will be replaced.
-3. Download the [fixes archive](RELEASE_DOWNLOAD_URL).
+3. Download the [fixes archive](https://github.com/user-attachments/files/34885755/paparazzi-fixes-1.0.0.zip).
 4. Extract the contents **into the game's installation folder**, where
    `Paparazzi.exe` is located, and overwrite the existing files.
 5. Run **`Paparazzi_no_drm.exe`**. To use the original launcher instead,
@@ -64,7 +64,7 @@ the original game is required. These fixes were prepared for the Russian release
 
 ## Download
 
-**[Download the fixes archive](RELEASE_DOWNLOAD_URL)**
+**[Download the fixes archive](https://github.com/user-attachments/files/34885755/paparazzi-fixes-1.0.0.zip)**
 
 ## Uninstall
 
